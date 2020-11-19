@@ -1,8 +1,6 @@
 package main
 
-import (
-	"gokopy/cmd"
-)
+import "github.com/nixoncode/gopy/cmd"
 
 func main() {
 	cmd.Execute()
